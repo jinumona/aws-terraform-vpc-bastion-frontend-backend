@@ -2,7 +2,7 @@
 
 AWS VPC for bastion,frontend,backend(db server) for a webserver.
 
-## Features
+## Sections
 
 - creating vpc
 - Adding Internet gateway
